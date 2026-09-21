@@ -1,0 +1,29 @@
+{
+  "deployment_status": "PENDING_EXTERNAL_EXECUTION",
+  "target": {
+    "provider": null,
+    "environment": null,
+    "region": null,
+    "hostname": null
+  },
+  "release": {
+    "package": "ZYRA MASTER HUB Production Candidate V1.0",
+    "image_digest": null
+  },
+  "verification": {
+    "health": null,
+    "readiness": null,
+    "run": null,
+    "audit": null,
+    "tls": null,
+    "security_scan": null,
+    "backup_restore": null,
+    "load_test": null
+  },
+  "acceptance": {
+    "authorized_by": null,
+    "timestamp": null,
+    "status": "PENDING"
+  },
+  "certification": "NOT_CLAIMED"
+}
